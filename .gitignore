@@ -1,0 +1,101 @@
+# -----------------------------------------------------------------------------
+# Private reference material (explicit project requirement)
+# -----------------------------------------------------------------------------
+/extra_info/
+
+# -----------------------------------------------------------------------------
+# Environment files and credentials
+# -----------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cert
+**/FIREBASE_CREDENTIAL_JSON.json
+**/firebase-adminsdk-*.json
+**/service-account*.json
+**/credentials.local.json
+**/secrets.local.json
+*.bak
+
+# -----------------------------------------------------------------------------
+# Python
+# -----------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+ENV/
+.python-version
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.pyright/
+.tox/
+.nox/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+*.egg-info/
+pip-wheel-metadata/
+
+# -----------------------------------------------------------------------------
+# Node, Vite, TypeScript and frontend tests
+# -----------------------------------------------------------------------------
+node_modules/
+dist/
+dist-ssr/
+.vite/
+.vitest/
+coverage/
+*.tsbuildinfo
+.eslintcache
+.npm/
+.pnpm-store/
+*.local
+
+# -----------------------------------------------------------------------------
+# Runtime output and temporary files
+# -----------------------------------------------------------------------------
+logs/
+*.log
+*.log.*
+*.pid
+*.seed
+*.tmp
+*.temp
+tmp/
+temp/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# -----------------------------------------------------------------------------
+# Editors, operating systems and local AI tooling
+# -----------------------------------------------------------------------------
+.idea/
+.vscode/
+.claude/
+.agents/
+.worktrees/
+*.swp
+*.swo
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+*.md

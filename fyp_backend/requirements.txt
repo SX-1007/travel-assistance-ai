@@ -1,0 +1,45 @@
+# ════════════════════════════════════════════════════════════════════
+#  FYP Backend — Python dependencies
+#  Pinned to known-compatible ranges; update deliberately & re-test.
+# ════════════════════════════════════════════════════════════════════
+
+# ── AI Agent Orchestration ───────────────────────────────────────────
+langgraph==0.3.15
+langgraph-prebuilt==0.1.8                # ToolNode and InjectedState namespace
+langgraph-checkpoint-postgres==2.0.21      # PostgresSaver used in supabase_db.py
+langchain==0.3.30
+langchain-core==0.3.85
+langchain-community==0.3.29
+langchain-google-genai==2.1.12              # GoogleGenerativeAIEmbeddings
+
+# ── API / ASGI server ────────────────────────────────────────────────
+fastapi[standard]==0.115.14
+orjson==3.11.6                            # ORJSONResponse in main.py
+
+# ── Settings / config ────────────────────────────────────────────────
+pydantic==2.11.7
+pydantic-settings==2.10.1                   # BaseSettings in app/core/config.py
+
+# ── Database: PostgreSQL (psycopg v3 stack) ──────────────────────────
+psycopg[binary]==3.2.10                     # from psycopg.rows import dict_row
+psycopg-pool==3.2.6                        # from psycopg_pool import ConnectionPool
+pgvector==0.4.1                           # pgvector.psycopg native adapter
+supabase==2.17.0                            # from supabase import create_client
+
+# ── Vector / memory stores (non-Postgres fallbacks) ──────────────────
+pinecone==5.4.2                            # modern pinecone client (v3+)
+mem0ai==0.1.114
+
+# ── Auth / push ──────────────────────────────────────────────────────
+firebase-admin==7.1.0
+
+# ── HTTP & search integrations ───────────────────────────────────────
+requests==2.33.0
+google-search-results==2.4.2               # SerpAPI client
+
+# ── i18n / locale helpers ────────────────────────────────────────────
+pycountry==24.6.1
+babel==2.17.0
+
+# ── Caching ──────────────────────────────────────────────────────────
+cachetools==5.5.2                          # TTLCache in currency.py / mapbox.py

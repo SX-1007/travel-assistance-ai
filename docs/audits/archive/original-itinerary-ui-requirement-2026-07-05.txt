@@ -1,0 +1,71 @@
+Archived Original Itinerary UI Requirement (captured 5 July 2026)
+
+Frontend: 
+(1. Display of the itinerary MUST BE in this format, the format can only change if the AI only answer user question but not planning itinerary)
+
+<Sequence>
+{/* Reason: Structured chronological itinerary with embedded API data cards for accommodation, dining, and daily geospatial routing. */}
+  <Step subtitle="Welcome to Malaysia" title="Day 1: Friday, June 12 – Arrival (Kuala Lumpur)">
+    *   **Midday:** Land at KLIA. Take the **KLIA Ekspres** train (RM 55, 28 mins) directly to KL Sentral.
+    *   **2:00 PM:** Take a Grab to **Hotel 1915**. Drop your bags and rest.
+
+    > 🏨 **LIVE API RESULT: ACCOMMODATION**
+    > **Hotel 1915 Chinatown Kuala Lumpur** (3-Star)
+    > 📍 *49 Jalan Leboh Ampang, City Centre* | ⭐ 7.2/10 (Good)
+    > 
+    > | Room Type | Live Price (per night) | Status | Action |
+    > | :--- | :--- | :--- | :--- |
+    > | Deluxe Queen Room | RM 68.15 (~$15) | 🟢 Available | `[ Book Now ]` |
+    >
+    > *Amenities: Free WiFi, Air Conditioning, 24-Hour Front Desk, Express Check-out.*
+
+    *   **5:00 PM:** Head to the **Petronas Twin Towers**. Walk around KLCC Park to watch the sunset.
+    *   **8:00 PM:** Watch the Lake Symphony fountain show, then grab dinner inside Suria KLCC mall.
+
+    > 🗺️ **LIVE API RESULT: DAILY ROUTING MAP**
+    > **Day 1 Spatial Overview**
+    > 📍 *Path: KLIA → KL Sentral → Hotel 1915 → Petronas Twin Towers*
+    >
+    > | Metric | Details | 
+    > | :--- | :--- | 
+    > | **Total Distance** | 63.5 km | 
+    > | **Est. Transit Time** | 1 hr 15 mins (Total) | 
+    > | **Primary Modes** | 🚆 High-Speed Train, 🚗 Rideshare | 
+    > 
+    > `[ 🗺️ Expand Interactive Map ]` | `[ ↗️ Send Route to Google Maps ]`
+  </Step>
+
+  <Step subtitle="Heritage & Street Food" title="Day 2: Saturday, June 13 – Historic Kuala Lumpur">
+    *   **10:00 AM:** Take a Grab to Chinatown. Walk the interactive mural alley at **Kwai Chai Hong**.
+    *   **1:00 PM:** Eat lunch at a heritage cafe like *Merchant's Lane*.
+
+    > 🍽️ **LIVE API RESULT: RESTAURANT & PLACES**
+    > **Merchant's Lane 美真林** (Fusion Cafe)
+    > 📍 *150 Jalan Petaling, Chinatown* | 🕒 Closes at 10:00 PM
+    >
+    > | Feature | Details |
+    > | :--- | :--- |
+    > | **Vibe** | Rustic, pre-war heritage building with exposed brick. |
+    > | **Must Try** | *South China Sea* (Pan-seared salmon) & *Italian Chow Mein*. |
+    > | **Wait Time** | 🟡 Moderate (~15 mins right now) |
+    > 
+    > `[ Open in Maps ]` | `[ View Menu ]`
+
+    *   **3:00 PM:** Browse local batiks and souvenirs in the air-conditioned **Central Market**.
+    *   **7:00 PM:** Walk down **Jalan Alor** food street for a massive, open-air charcoal BBQ dinner.
+
+    > 🗺️ **LIVE API RESULT: DAILY ROUTING MAP**
+    > **Day 2 Spatial Overview**
+    > 📍 *Path: Hotel 1915 → Kwai Chai Hong → Central Market → Jalan Alor*
+    >
+    > | Metric | Details | 
+    > | :--- | :--- | 
+    > | **Total Distance** | 3.2 km | 
+    > | **Est. Transit Time** | 45 mins (Total) | 
+    > | **Primary Modes** | 🚶 Walking, 🚗 Rideshare | 
+    > 
+    > `[ 🗺️ Expand Interactive Map ]` | `[ ↗️ Send Route to Google Maps ]`
+  </Step>
+</Sequence>
+
+

@@ -1,0 +1,2107 @@
+[
+  {
+    "country": "Algeria",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Algiers",
+        "address": [
+          "Embassy of Malaysia",
+          "Chemin Said Hamdine",
+          "Villa No.9, Hydra",
+          "Algiers"
+        ],
+        "phone": [
+          "+213 020 070 13",
+          "+213 020 070 034",
+          "+213 020 070 242"
+        ],
+        "fax": "+213 020071847",
+        "email": "mwalgiers@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/dza_algiers/home"
+      }
+    ]
+  },
+  {
+    "country": "Argentina",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Buenos Aires",
+        "address": [
+          "Villanueva 1040",
+          "C1426BMD, Buenos Aires"
+        ],
+        "phone": [
+          "+54-11-4776-0504",
+          "+54-11-4776-2553",
+          "+54-11-4777-8420"
+        ],
+        "fax": "+54-11-4776-0604",
+        "email": "mwbuenosaires[at]kln[dot]gov[dot]my",
+        "website": "https://www.kln.gov.my/web/arg_buenos-aires/home"
+      }
+    ]
+  },
+  {
+    "country": "Australia",
+    "missions": [
+      {
+        "name": "High Commission of Malaysia, Canberra",
+        "address": [
+          "7 Perth Avenue, Yarralumla ACT, 2600 ACT",
+          "(Public Entrance :Consular&Immigration matters via gate:129 Empire Circuit)"
+        ],
+        "phone": [
+          "Immigration/VISA/Passport (+61 2 6120 0324/ 362)",
+          "Consular matters (+61 2 6120 0328/ 329)",
+          "General line (+61 2 6120 0300/ 310) Emergency cases (+61416334901)"
+        ],
+        "fax": "+61 2 6273 4340/ 2496",
+        "email": "immigration@malaysia.org.au / mwcanberra@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/aus_canberra/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Perth",
+        "address": [
+          "252 Adelaide Terrace",
+          "Perth WA 6000"
+        ],
+        "phone": [
+          "[General enquiries] +61-8-92257055",
+          "[Emergency after hours Consular matters only] +61-477 867 897"
+        ],
+        "fax": "+61-8-9225 7099",
+        "email": "mwperth@kln.gov.my / immi.perth@imi.gov.my",
+        "website": "https://www.kln.gov.my/web/aus_perth/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Melbourne",
+        "address": [
+          "Unit 101, Yarra One",
+          "16 Claremont Street, South Yarra,",
+          "Victoria 3141 AUSTRALIA",
+          "Melbourne"
+        ],
+        "phone": [
+          "+61-3-9573 5400",
+          "[Duty Officer (Emergency) : +61 413 849 445]"
+        ],
+        "fax": "+61-3-9866 6204",
+        "email": "immi.melbourne@imi.gov.my / mel.consular@kln.gov.my / mwmelbourne@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/aus_melbourne/home"
+      }
+    ]
+  },
+  {
+    "country": "Austria",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Vienna",
+        "address": [
+          "24th Floor, Peak Vienna,",
+          "Floridsdorfer Hauptstrasse 1-7,",
+          "Vienna"
+        ],
+        "phone": [
+          "+43 1 505 1042 (General enquiries)",
+          "+43 676 384 1336 (For emergencies)"
+        ],
+        "fax": "+43 -1- 505 7942",
+        "email": "mwvienna@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/aut_vienna/home"
+      }
+    ]
+  },
+  {
+    "country": "Azerbaijan",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Baku",
+        "address": [
+          "Rahim Mammadov Street",
+          "House 11, Narimanov District,",
+          "Baku"
+        ],
+        "phone": [
+          "+994 12 561 8150 (GL)",
+          "+994 12 561 2732 (GL)",
+          "+994 55 414 11 55 (general enquiries or emergencies)"
+        ],
+        "fax": "-",
+        "email": "mwbaku@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/aze_baku/home"
+      }
+    ]
+  },
+  {
+    "country": "Bahrain",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Manama",
+        "address": [
+          "Villa 1617",
+          "Road 3437",
+          "Block 334",
+          "Al Mahooz",
+          "Manama"
+        ],
+        "phone": [
+          "+973 1756 4551 (General enquiries)",
+          "+973 3899 0749 (For emergencies: Call & Whatsapp)"
+        ],
+        "fax": "+973 1756 4552",
+        "email": "mwmanama[at]kln[dot]gov[dot]my",
+        "website": "https://www.kln.gov.my/web/bhr_manama/home"
+      }
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "missions": [
+      {
+        "name": "High Commission of Malaysia, Dhaka",
+        "address": [
+          "House No. 19",
+          "Road No. 6",
+          "Baridhara Diplomatic Enclave",
+          "Dhaka"
+        ],
+        "phone": [
+          "+88 02 4108 1892",
+          "+88 02 4108 1918 (VISA related matters)",
+          "+88 017 8665 2466 (Emergency for Malaysian Nationals only)"
+        ],
+        "fax": "+88 02 4108 1893",
+        "email": "mwdhaka@kln.gov.my / dhaka@imi.gov.my (Visa Section)",
+        "website": "https://www.kln.gov.my/web/bgd_dhaka/home"
+      }
+    ]
+  },
+  {
+    "country": "Belgium",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Brussels",
+        "address": [
+          "Kedutaan Besar Malaysia / Embassy of Malaysia",
+          "Ambassade de Malaisie / Ambassade van Maleisië",
+          "Avenue de Tervueren",
+          "412",
+          "Level 2",
+          "Box 11",
+          "Brussels"
+        ],
+        "phone": [
+          "+322 776 0340",
+          "+32 477 32 07 86 (Outside Office Hour / Emergency)"
+        ],
+        "fax": "+32 276 25 049",
+        "email": "mwbrussels@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/bel_brussels/home"
+      }
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Sarajevo",
+        "address": [
+          "Embassy of Malaysia",
+          "Radnicka 4a",
+          "Sarajevo"
+        ],
+        "phone": [
+          "+387 33 201 578"
+        ],
+        "fax": "+387 33 810 036",
+        "email": "mwsarajevo@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/bih_sarajevo/home"
+      }
+    ]
+  },
+  {
+    "country": "Brazil",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Brasilia",
+        "address": [
+          "SHIS QI 05",
+          "Chácara 62",
+          "Lago Sul",
+          "CEP: 71615904",
+          "Brasília - DF",
+          "BRASILIA",
+          "BRAZIL"
+        ],
+        "phone": [
+          "+ 55 61 3248 5008 (General enquiries)",
+          "+ 55 61 3248 6215"
+        ],
+        "fax": "",
+        "email": "mwbrasilia[at]kln[dot]gov[dot]my; br.cons[at]kln[dot]gov[dot]my (Consular)",
+        "website": "https://www.kln.gov.my/web/bra_brasilia/home"
+      }
+    ]
+  },
+  {
+    "country": "Brunei Darussalam",
+    "missions": [
+      {
+        "name": "High Commission of Malaysia, Bandar Seri Begawan",
+        "address": [
+          "No. 61",
+          "Simpang 336",
+          "Jalan Kebangsaan",
+          "Bandar Seri Begawan"
+        ],
+        "phone": [
+          "+673-2381096 /97",
+          "Consular Operation Hours (Mon-Fri): 9.00 am - 11.00 am (Submission), 3.00 pm - 4.00 pm (Collection)"
+        ],
+        "fax": "+673-2381278 dan +673-2382348",
+        "email": "mwbrunei@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/brn_bandar-seri-begawan/home"
+      }
+    ]
+  },
+  {
+    "country": "Cambodia",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Phnom Penh",
+        "address": [
+          "No.220-222",
+          "Preah Norodom Boulevard",
+          "Sangkat Tonle Bassac",
+          "Khan Chamkarmorn",
+          "Phnom Penh"
+        ],
+        "phone": [
+          "+855 23 216 176",
+          "+855 15 216 187"
+        ],
+        "fax": "-",
+        "email": "mwphnompenh@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/khm_phnom-penh/home"
+      }
+    ]
+  },
+  {
+    "country": "Canada",
+    "missions": [
+      {
+        "name": "High Commission of Malaysia, Ottawa",
+        "address": [
+          "High Commission of Malaysia",
+          "60 Boteler Street",
+          "K1N 8Y7",
+          "Ottawa",
+          "Ontario",
+          "Canada"
+        ],
+        "phone": [
+          "+1 (613) 241-5182 (General enquiries or emergencies)",
+          "+1 (343) 254-4333 (after office hours)"
+        ],
+        "fax": "+1 (613) 241-5214",
+        "email": "mwottawa@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/can_ottawa/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Vancouver",
+        "address": [
+          "Suite 1805",
+          "Level 18th",
+          "FortisBC Centre",
+          "No. 1111",
+          "West Georgia Street",
+          "V6E 4M3"
+        ],
+        "phone": [
+          "+1-604-685 9550"
+        ],
+        "fax": "+1-604-685 9520",
+        "email": "mwvancouver@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/can_vancouver/home"
+      }
+    ]
+  },
+  {
+    "country": "Chile",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Santiago",
+        "address": [
+          "Embajada de Malasia",
+          "Calle Callao 3461",
+          "Las Condes",
+          "Santiago"
+        ],
+        "phone": [
+          "(562) 2694 9800"
+        ],
+        "fax": "-",
+        "email": "mwsantiago[at]kln[dot]gov[dot]my",
+        "website": "https://www.kln.gov.my/web/chl_santiago/home"
+      }
+    ]
+  },
+  {
+    "country": "China",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Beijing",
+        "address": [
+          "No. 2",
+          "Liang Ma Qiao Bei Jie",
+          "Chaoyang District",
+          "People's Republic of China",
+          "Beijing"
+        ],
+        "phone": [
+          "(86-10) 6532-2531 / (86-10) 6532-2532 / (86-10) 6532-2533 (office lines)",
+          "(86) 13718942581 (For emergencies - after office hours)"
+        ],
+        "fax": "(86-10) 6532-5032",
+        "email": "mwbeijing@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/chn_beijing/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Guangzhou",
+        "address": [
+          "Unit 01-1",
+          "05-1 dan 06",
+          "Level 28",
+          "Kingold Century",
+          "No. 62 Jin Sui Road",
+          "Zhujiang New Town",
+          "Tianhe District",
+          "People's Republic of China",
+          "Guangzhou"
+        ],
+        "phone": [
+          "020-8526 9456 (General Line - Visa, Passport, Emergency Certificate)",
+          "020-8526 9396 | 5226 (General Line - Consular)",
+          "+86 188 0208 7683 (For emergencies - after office hours)"
+        ],
+        "fax": "020-8523 5006",
+        "email": "gz.consular@kln.gov.my | guangzhou@imi.gov.my | mwguangzhou@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/chn_guangzhou/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Shanghai",
+        "address": [
+          "Unit 01",
+          "Block B",
+          "9th Floor",
+          "Dawning Centre",
+          "No. 500",
+          "Hongbaoshi Road",
+          "Changning District",
+          "201103",
+          "Shanghai"
+        ],
+        "phone": [
+          "+86 21 6090 0360 (9.00 am - 5.00 pm, Monday to Friday except public holiday)",
+          "+86 21 6090 0390 (Immigration)"
+        ],
+        "fax": "+86 21 6090 0371 (Consulate)",
+        "email": "mwshanghai@kln.gov.my / shanghai@imi.gov.my (Immigration)",
+        "website": "https://www.kln.gov.my/web/chn_shanghai/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Kunming",
+        "address": [
+          "Unit 1503",
+          "15th Floor Tower B",
+          "South Asia Top City Building",
+          "Dianchi Road",
+          "Kunming",
+          "Yunnan",
+          "People's Republic of China",
+          "Kunming"
+        ],
+        "phone": [
+          "+86 871 6316 5088 (General Line)",
+          "+86 871 6318 4860 (Immigration Office)",
+          "+86 197 1169 2808 (For emergencies - after office hours)"
+        ],
+        "fax": "+86 871 6311 3503",
+        "email": "mwkunming@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/chn_kunming/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Nanning",
+        "address": [
+          "International Chamber of Commerce Tower",
+          "45th FLOOR",
+          "No. 59 Jinhu Road",
+          "Nanning",
+          "Guangxi Zhuang Autonomous Region"
+        ],
+        "phone": [
+          "+86 771 5662562 (General enquiries)",
+          "+86 159 7778 3818 (For emergencies)"
+        ],
+        "fax": "+86 771 5662562 (General enquiries)",
+        "email": "mwnanning[at]kln[dot]gov[dot]my",
+        "website": "https://www.kln.gov.my/web/chn_nanning/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Hong Kong",
+        "address": [
+          "24th Floor",
+          "Malaysia Building",
+          "47-50 Gloucester Road",
+          "Wanchai",
+          "Hong Kong"
+        ],
+        "phone": [
+          "(852) 2821 0800 (General enquiries - office hours)",
+          "(852) 2821 0823/0818 (Passport/Visa/Pass - office hours)",
+          "(852) 6900 6390 (For emergencies - after office hours)"
+        ],
+        "fax": "(852) 2865 1628",
+        "email": "mwhongkong[at]kln[dot]gov[dot]my; hongkong[at]imi[dot]gov[dot]my (Passport/Visa/Pass)",
+        "website": "https://www.kln.gov.my/web/chn_hong-kong/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Xian",
+        "address": [
+          "Building No. 2",
+          "Xian Consulate Area",
+          "Chanba Ecological District",
+          "Xi'an",
+          "Shaanxi"
+        ],
+        "phone": [
+          "General Line (+8629) 8956 8478",
+          "Duty Officer (+186 2968 1928)"
+        ],
+        "fax": "(+8629) 8932 6122",
+        "email": "mwxian@kln.gov.my & cgmxian@hotmail.com",
+        "website": "https://www.kln.gov.my/web/chn_xian/home"
+      }
+    ]
+  },
+  {
+    "country": "Croatia",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Zagreb",
+        "address": [
+          "Slavujevac 4A",
+          "Zagreb"
+        ],
+        "phone": [
+          "+385 1 4834346/47",
+          "+385 91 4834346 (After Office Hours: Duty Officer)"
+        ],
+        "fax": "+385 1 4834348",
+        "email": "mwzagreb@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/hrv_zagreb/home"
+      }
+    ]
+  },
+  {
+    "country": "Cuba",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Havana",
+        "address": [
+          "No. 6612",
+          "5th Avenue and 68th Street",
+          "Miramar",
+          "Playa",
+          "Havana"
+        ],
+        "phone": [
+          "+(53) 7204 8883 / 84 (General enquiries)"
+        ],
+        "fax": "Not Available",
+        "email": "mwhavana[at]kln[dot]gov[dot]my",
+        "website": "https://www.kln.gov.my/web/cub_havana/home"
+      }
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Prague",
+        "address": [
+          "Komornická 1852/25",
+          "16000 Praha - 6",
+          "Dejvice",
+          "Prague"
+        ],
+        "phone": [
+          "(General) (+420) 234-706-600",
+          "(Emergency / Duty Officer) (+420) 733 181 449"
+        ],
+        "fax": "(+420) 296-326-192",
+        "email": "mwprague[at]kln[dot]gov[dot]my",
+        "website": "https://www.kln.gov.my/web/cze_prague/home"
+      }
+    ]
+  },
+  {
+    "country": "Egypt",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Cairo",
+        "address": [
+          "Embassy of Malaysia",
+          "10, Street 261, Maadi",
+          "Cairo"
+        ],
+        "phone": [
+          "+20 225174210",
+          "+20 225173974 (Consular Counter 9.00 am - 3.30 pm)",
+          "+201 200276388 (After Office Hours/Emergency)"
+        ],
+        "fax": "Nil",
+        "email": "cai.consular@kln.gov.my / mwcairo@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/egy_cairo/home"
+      }
+    ]
+  },
+  {
+    "country": "Ethiopia",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Addis Ababa",
+        "address": [
+          "Bilik 349 & 352, Sheraton Addis Hotel",
+          "P.O Box 6002",
+          "Taitu St., Addis Ababa",
+          "Addis Ababa",
+          "Ethiopia"
+        ],
+        "phone": [
+          "+251 115171717 (samb. 349)"
+        ],
+        "fax": "-",
+        "email": "mwaddisababa@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/eth_addis-ababa/home"
+      }
+    ]
+  },
+  {
+    "country": "Fiji",
+    "missions": [
+      {
+        "name": "High Commission of Malaysia, Suva",
+        "address": [
+          "5th Floor, Pacific House",
+          "Butt Street, Suva",
+          "P.O. Box 356",
+          "Suva",
+          "Fiji"
+        ],
+        "phone": [
+          "+679 3312166",
+          "+679 3312617",
+          "+679 7728877"
+        ],
+        "fax": "+679 3303350",
+        "email": "mwsuva@kln.gov.my / mwsuva@gmail.com",
+        "website": "https://www.kln.gov.my/web/fji_suva/home"
+      }
+    ]
+  },
+  {
+    "country": "Finland",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Helsinki",
+        "address": [
+          "World Trade Centre",
+          "3rd Floor",
+          "Aleksanterinkatu 17",
+          "Helsinki"
+        ],
+        "phone": [
+          "+358 (0) 10 320 2030"
+        ],
+        "fax": "+358 (0) 10 320 2041",
+        "email": "mwhelsinki@kln.gov.my / chancery@malaysianembassy.fi",
+        "website": "https://www.kln.gov.my/web/fin_helsinki/home"
+      }
+    ]
+  },
+  {
+    "country": "France",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Paris",
+        "address": [
+          "Tour Voltaire",
+          "8th Floor",
+          "1 place des Degrés",
+          "Puteaux",
+          "France"
+        ],
+        "phone": [
+          "+33 1 45 53 11 85 (General Enquiries and Emergencies)",
+          "+33 6 32 44 65 71 (Emergencies after office hours only)"
+        ],
+        "fax": "+33 1 44 05 16 65",
+        "email": "mwparis[at]kln[dot]gov[dot]my / paris[dot]consular[at]kln[dot]gov[dot]my",
+        "website": "https://www.kln.gov.my/web/fra_paris/home"
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Berlin",
+        "address": [
+          "Klingelhöferstraße 6, 10785 Berlin, Federal Republic of Germany"
+        ],
+        "phone": [
+          "+49(0)30885749-0 (General enquiries)",
+          "+49(0)16091883622 (For emergencies)"
+        ],
+        "fax": "+49-(0)30-88 57 49 50 / +49-(0)30-88 57 49 55",
+        "email": "mwberlin[at]kln[dot]gov[dot]my / consular[at]malemb[dot]de",
+        "website": "https://www.kln.gov.my/web/deu_berlin/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Frankfurt",
+        "address": [
+          "HAT 64",
+          "Level 8",
+          "Bleichstrasse 64-66",
+          "Frankfurt am Main"
+        ],
+        "phone": [
+          "+49 69 87 00 37 210 (General enquiries)"
+        ],
+        "fax": "-",
+        "email": "mwfrankfurt[@]kln[dot]gov[dot]my (also applicable for emergency purposes)",
+        "website": "https://www.kln.gov.my/web/deu_frankfurt/home"
+      }
+    ]
+  },
+  {
+    "country": "Ghana",
+    "missions": [
+      {
+        "name": "High Commission of Malaysia, Accra",
+        "address": [
+          "4 H Kessels CL GA-153 -5178",
+          "Airport Residential Area",
+          "Accra"
+        ],
+        "phone": [
+          "+233- 0508654351 (General Enquiries or Emergencies)"
+        ],
+        "fax": "-",
+        "email": "mwaccra@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/gha_accra/home"
+      }
+    ]
+  },
+  {
+    "country": "Guinea",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Conakry",
+        "address": [
+          "BP. 5460",
+          "Unit 1A & 1B, Les Residences Sankaran",
+          "Corniche Nord, Camayenne",
+          "Conakry"
+        ],
+        "phone": [
+          "+ (224) 622 66 78 79",
+          "+ (224) 622 66 78 78"
+        ],
+        "fax": "N/A",
+        "email": "mwconakry@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/gin_conakry/home"
+      }
+    ]
+  },
+  {
+    "country": "Holy See",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Holy See",
+        "address": [
+          "Unit No. 2",
+          "Second Floor",
+          "Via della Conciliazione 4D",
+          "00193",
+          "Rome",
+          "Italy"
+        ],
+        "phone": [
+          "+39 06 6830 8432"
+        ],
+        "fax": "+39 06 6821 6166",
+        "email": "mwholysee[at]kln[dot]gov[dot]my",
+        "website": "https://www.kln.gov.my/web/hls_holy-see/home"
+      }
+    ]
+  },
+  {
+    "country": "Hungary",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Budapest",
+        "address": [
+          "EMBASSY OF MALAYSIA / MALAJZIAI NAGYKÖVETSÉG",
+          "Házmán Utca 8",
+          "1026",
+          "Budapest",
+          "Hungary"
+        ],
+        "phone": [
+          "+361 488 0810 [General Enquiries]",
+          "+36 300883130 [Whatsapp / Outside Office Hours only]"
+        ],
+        "fax": "(361) 488-0824",
+        "email": "mwbudapest[at]kln[dot]gov[dot]my / mwbdpest@t-online.hu",
+        "website": "https://www.kln.gov.my/web/hun_budapest/home"
+      }
+    ]
+  },
+  {
+    "country": "India",
+    "missions": [
+      {
+        "name": "High Commission of Malaysia, New Delhi",
+        "address": [
+          "50-M, Satya Marg, Chanakyapuri",
+          "New Delhi",
+          "Republic of India"
+        ],
+        "phone": [
+          "+91-11-2415 9300",
+          "+91-11-2415 9310 [Admin]",
+          "+91-11-2415 9311 [Consular]",
+          "+91-11-24159340-43/9355/9312/9306 [Visa]"
+        ],
+        "fax": "+91-11-2688 1538",
+        "email": "mwdelhi[at]kln[dot]gov[dot]my",
+        "website": "https://www.kln.gov.my/web/ind_new-delhi/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Mumbai",
+        "address": [
+          "Unit 12A1, Unit 12A2 & Unit 12A3",
+          "13th Floor",
+          "Supreme Headquarters Building",
+          "14th & 33rd Road, near Link Square Mall Bandra (W)",
+          "Maharashtra",
+          "India"
+        ],
+        "phone": [
+          "Off.:+91 22 6996 5757 (General Enquiries)",
+          "Visa : +91 22 6959 7676 (Visa Enquiries) [mumbai@imi.gov.my]"
+        ],
+        "fax": "-",
+        "email": "mwmumbai[at]kln[dot]gov[dot]my",
+        "website": "https://www.kln.gov.my/web/ind_mumbai/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Chennai",
+        "address": [
+          "No.7, (Old No.3), Cenotaph Road, 1st Street, Teynampet",
+          "Chennai"
+        ],
+        "phone": [
+          "+91-44-24334434 (General enquiries & emergency)",
+          "+91-44-24334435 (General enquiries & emergency)",
+          "+91-44-24334436 (General enquiries & emergency)"
+        ],
+        "fax": "+91-44-24334437",
+        "email": "mwchennai@kln.gov.my / chennai@imi.gov.my [For Passport & Visa]",
+        "website": "https://www.kln.gov.my/web/ind_chennai/home"
+      }
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Jakarta",
+        "address": [
+          "Jl. H.R. Rasuna Said Kav.X/6, No. 1-3",
+          "Kuningan",
+          "12950",
+          "Jakarta Selatan",
+          "Republik Indonesia"
+        ],
+        "phone": [
+          "+62 21 522 4947 (General Enquiries)",
+          "+62 813 8081 3036 (For Emergencies After Office Hours)"
+        ],
+        "fax": "+62 21 522 4974",
+        "email": "mwjakarta@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/idn_jakarta/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Medan",
+        "address": [
+          "Jln. P. Diponegoro No.43",
+          "Sumatera Utara"
+        ],
+        "phone": [
+          "+(62)(61) 4531342",
+          "+(62)(61) 4535271",
+          "+(62)(61) 4523992"
+        ],
+        "fax": "+(62)(61) 4534681",
+        "email": "mwmedan[at]kln[dot]gov[dot]my",
+        "website": "https://www.kln.gov.my/web/idn_medan/home"
+      },
+      {
+        "name": "Consulate of Malaysia, Pekanbaru",
+        "address": [
+          "Jln. Jenderal Sudirman Simpang Tiga",
+          "Pekanbaru",
+          "Riau"
+        ],
+        "phone": [
+          "0062-761-856166",
+          "0062-761-856167",
+          "+6282171742841 (WhatsApp)"
+        ],
+        "fax": "-",
+        "email": "mwpekanbaru[at]kln[dot]gov[dot]my",
+        "website": "https://www.kln.gov.my/web/idn_pekanbaru/home"
+      },
+      {
+        "name": "Consulate of Malaysia, Pontianak",
+        "address": [
+          "Jl. Perdana No. 001",
+          "Pontianak",
+          "78124",
+          "Kalimantan Barat",
+          "Republik Indonesia"
+        ],
+        "phone": [
+          "(+62 561) 736061",
+          "Duty Officer: +628215656942 / +6281346436592 (selepas waktu pejabat)"
+        ],
+        "fax": "(+62 561) 736060",
+        "email": "mwpontianak[at]kln[dot]gov[dot]my",
+        "website": "https://www.kln.gov.my/web/idn_pontianak/home"
+      },
+      {
+        "name": "Permanent Mission of Malaysia to ASEAN, ASEAN Jakarta",
+        "address": [
+          "Jl. H.R. Rasuna Said Kav.X/6, No. 1-3",
+          "Kuningan",
+          "12950",
+          "Jakarta Selatan"
+        ],
+        "phone": [
+          "+6221 5290 5634 (General Enquiries)",
+          "+62813 8081 3036 (Emergencies)"
+        ],
+        "fax": "+6221 5290 5635",
+        "email": "mwasean@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/idn_asean-jakarta/home"
+      }
+    ]
+  },
+  {
+    "country": "Iran",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Tehran",
+        "address": [
+          "25, Second Alley, North Zarafshan Street",
+          "Eyvanak Boulavard, Phase 4, Shahrak e-Qods",
+          "Tehran",
+          "Islamic Republic of Iran"
+        ],
+        "phone": [
+          "(+9821) 8807 2444",
+          "(+9821) 8807 8606"
+        ],
+        "fax": "(+9821) 8807 8716",
+        "email": "mwtehran@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/irn_tehran/home"
+      }
+    ]
+  },
+  {
+    "country": "Iraq",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Baghdad",
+        "address": [
+          "Mezzanine Floor",
+          "Babylon Rotana Hotel",
+          "Location 915, Road 24, Al Abassi Street",
+          "Al Jadria",
+          "Baghdad",
+          "Republic of Iraq"
+        ],
+        "phone": [
+          "For Appointment & General enquiries please email to: consular.bgw@kln.gov.my",
+          "FOR EMERGENCIES ONLY: +964-7878598775"
+        ],
+        "fax": "-",
+        "email": "mwbaghdad@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/irq_baghdad/home"
+      }
+    ]
+  },
+  {
+    "country": "Ireland",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Dublin",
+        "address": [
+          "Level 3A - 5A",
+          "Shelbourne House",
+          "Shelbourne Road, Ballsbridge",
+          "Ireland"
+        ],
+        "phone": [
+          "+353-1-6677280"
+        ],
+        "fax": "+353-1-6677283",
+        "email": "mwdublin@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/irl_dublin/home"
+      }
+    ]
+  },
+  {
+    "country": "Italy",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Rome",
+        "address": [
+          "Kedutaan Besar Malaysia/Embassy of Malaysia/Ambasciata della Malesia",
+          "Via Cimone 48",
+          "00141",
+          "Roma",
+          "Italy"
+        ],
+        "phone": [
+          "0039-06-2418658",
+          "0039-06-24304136",
+          "0039-06-24406460"
+        ],
+        "fax": "0039-06-8555040",
+        "email": "mwrome@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/ita_rome/home"
+      }
+    ]
+  },
+  {
+    "country": "Japan",
+    "mission": "Embassy of Malaysia, Tokyo",
+    "address": [
+      "20-16, Nanpeidai-cho,",
+      "Shibuya-ku,",
+      "150-0036",
+      "Tokyo"
+    ],
+    "phone": {
+      "general_enquiries": "+81-3-3476-3840",
+      "emergencies": "+81-80-4322-3366"
+    },
+    "fax": "+81-3-3476-4971",
+    "email": [
+      "mwtokyo@kln.gov.my",
+      "consular.tyo@kln.gov.my"
+    ],
+    "website": "https://www.kln.gov.my/web/jpn_tokyo/home"
+  },
+  {
+    "country": "Jordan",
+    "mission": "Embassy of Malaysia, Amman",
+    "address": [
+      "No. 5, Hassan Al Kayed Street, Off Abai Street,",
+      "Abdoun",
+      "P.O. Box 5351",
+      "Amman 11183",
+      "Jordan"
+    ],
+    "phone": {
+      "general_enquiries": "(+962) 6590 2400",
+      "after_hours": "(+962) 78590 2400"
+    },
+    "fax": "(962) 6593 4343",
+    "email": [
+      "mwamman@kln.gov.my"
+    ],
+    "website": "https://www.kln.gov.my/web/jor_amman/home"
+  },
+  {
+    "country": "Kazakhstan",
+    "mission": "Embassy of Malaysia, Astana",
+    "address": [
+      "26 Sarayshyk Street",
+      "Diplomatic District",
+      "Astana"
+    ],
+    "phone": {
+      "general": "+7 (7172) 67 87 07"
+    },
+    "fax": "+7 (7172) 79 06 95",
+    "email": [
+      "mwastana@kln.gov.my",
+      "membassy@gmail.com"
+    ],
+    "website": "https://www.kln.gov.my/web/kaz_astana/home"
+  },
+  {
+    "country": "Kenya",
+    "mission": "High Commission of Malaysia, Nairobi",
+    "address": [
+      "611,",
+      "Runda Grove, Runda",
+      "P.O. Box 42286",
+      "Nairobi"
+    ],
+    "phone": {
+      "general": "+254 (01) 11052710"
+    },
+    "fax": "-",
+    "email": [
+      "mwnairobi@kln.gov.my"
+    ],
+    "website": "https://www.kln.gov.my/web/ken_nairobi/home"
+  },
+  {
+    "country": "Kuwait",
+    "mission": "Embassy of Malaysia, Kuwait",
+    "address": [
+      "Plot 5, Yemen Street, Area 5",
+      "Diplomatic Enclave, Daiya",
+      "P.O Box : 4105 Safat",
+      "Kuwait"
+    ],
+    "phone": {
+      "general_enquiries_1": "+ (965) 22550394",
+      "general_enquiries_2": "+ (965) 22550395",
+      "emergencies": "+ (965) 96783036"
+    },
+    "fax": "+ (965) 22550384",
+    "email": [
+      "mwkuwait@kln.gov.my"
+    ],
+    "website": "https://www.kln.gov.my/web/kwt_kuwait/home"
+  },
+  {
+    "country": "Lao People's Democratic Republic",
+    "mission": "Embassy of Malaysia, Vientiane",
+    "address": [
+      "Embassy of Malaysia in Vientiane, Nongbone Road, Ban Phonexay",
+      "P.O. Box 789",
+      "Vientiane",
+      "Lao PDR"
+    ],
+    "phone": {
+      "general_1": "+856 21 414205",
+      "general_2": "+85621414206"
+    },
+    "fax": "+856 21414201",
+    "email": [
+      "mwvientiane@kln.gov.my"
+    ],
+    "website": "https://www.kln.gov.my/web/lao_vientiane/home"
+  },
+  {
+    "country": "Lebanon",
+    "mission": "Embassy of Malaysia, Beirut",
+    "address": [
+      "Lot 170",
+      "Saad Zaghloul Street",
+      "Downtown, Beirut",
+      "Lebanon"
+    ],
+    "phone": {
+      "general": "+961-1-970207"
+    },
+    "fax": "Nil",
+    "email": [
+      "mwbeirut@kln.gov.my"
+    ],
+    "website": "https://www.kln.gov.my/web/lbn_beirut/home"
+  },
+  {
+    "country": "Mexico",
+    "mission": "Embassy of Malaysia, Mexico City",
+    "address": [
+      "Monte Líbano 1015",
+      "Lomas de Chapultepec VIII Secc,",
+      "Miguel Hidalgo, 11000 Ciudad de México, CDMX",
+      "Mexico City"
+    ],
+    "phone": {
+      "general_1": "52 55 5282 4656",
+      "general_2": "52 55 5282 5166"
+    },
+    "fax": "-",
+    "email": [
+      "mwmexico@kln.gov.my",
+      "mex.receptionist@kln.gov.my"
+    ],
+    "website": "https://www.kln.gov.my/web/mex_mexico-city/home"
+  },
+  {
+    "country": "Morocco",
+    "mission": "Embassy of Malaysia, Rabat",
+    "address": [
+      "307, Rue Bani Yidder",
+      "Souissi, 10000 Rabat",
+      "Kingdom of Morocco"
+    ],
+    "phone": {
+      "general_line": "(+212) 537-65 83 24",
+      "emergency_hotline": "(+212) 677-74 48 48"
+    },
+    "fax": "(+212) 537-65 83 63",
+    "email": [
+      "mwrabat@kln.gov.my"
+    ],
+    "website": "https://www.kln.gov.my/web/mar_rabat/home"
+  },
+  {
+    "country": "Myanmar",
+    "mission": "Embassy of Malaysia, Yangon",
+    "address": [
+      "No. 82, Pyidaungsu Yeiktha Road,",
+      "11191 Dagon Township",
+      "Yangon",
+      "Myanmar"
+    ],
+    "phone": {
+      "general_line": "+951 220230 / 220248 / 220249 / 01 8221865",
+      "visa_and_consular": "09 7558 38992",
+      "emergencies_after_office_hours": "+959 772 220 230"
+    },
+    "fax": "+95 1 221 840",
+    "email": [
+      "mwyangon@kln.gov.my"
+    ],
+    "website": "https://www.kln.gov.my/web/mmr_yangon/home"
+  },
+  {
+    "country": "Namibia",
+    "missions": [
+      {
+        "name": "High Commission of Malaysia, Windhoek",
+        "address": [
+          "98",
+          "Nelson Mandela Avenue",
+          "Klein Windhoek",
+          "Windhoek"
+        ],
+        "phone": [
+          "(+264-61) 259 342 (General enquiries or emergencies)",
+          "(+264-61) 259 344"
+        ],
+        "fax": "(+264-61) 259 343",
+        "email": "mwwindhoek@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/nam_windhoek/home"
+      }
+    ]
+  },
+  {
+    "country": "Nepal",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Kathmandu",
+        "address": [
+          "Bakhundole-3, Lalitpur",
+          "Kathmandu"
+        ],
+        "phone": [
+          "+97715445680 / +97715445681 (General)",
+          "+97715445689 (Consular & Immigration)",
+          "+977-9801008000 (Emergency Only / Duty Officer)"
+        ],
+        "fax": "+97715445679",
+        "email": "mwkathmandu@kln.gov.my (General) / kathmandu@imi.gov.my (Visa and other Immigration matters)",
+        "website": "https://www.kln.gov.my/web/npl_kathmandu/home"
+      }
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, The Hague",
+        "address": [
+          "Rustenburgweg 2",
+          "Zuid-Holland",
+          "The Hague"
+        ],
+        "phone": [
+          "+31 70 3506506",
+          "+31 6 3448 5289 (Duty Officer)"
+        ],
+        "fax": "+31 70 3506536",
+        "email": "mwthehague@kln.gov.my / consularthehague@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/nld_the-hague/home"
+      }
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "missions": [
+      {
+        "name": "High Commission of Malaysia, Wellington",
+        "address": [
+          "10 Washington Avenue",
+          "Brooklyn",
+          "PO Box 9422",
+          "Wellington"
+        ],
+        "phone": [
+          "+64-4-3852439 (Main Line)"
+        ],
+        "fax": "+64-21-0440188 (After Hours Emergency Consular Assistance)",
+        "email": "nz.cons@kln.gov.my (consular matters) / mwwellington@kln.gov.my (official matters)",
+        "website": "https://www.kln.gov.my/web/nzl_wellington/home"
+      }
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "missions": [
+      {
+        "name": "High Commission of Malaysia, Abuja",
+        "address": [
+          "Plot 5, Queen Idia Street",
+          "(off 23 Ukpabi Asika Street)",
+          "Asokoro",
+          "Abuja"
+        ],
+        "phone": [
+          "+234 209 290 8488 (Office Hours)",
+          "+234 703 136 5197 (For Malaysian with Emergencies After Office Hours)"
+        ],
+        "fax": "-",
+        "email": "mwabuja@kln.gov.my / abj.visa@kln.gov.my (Visa Matters) / abj.consular@kln.gov.my (Consular Matters)",
+        "website": "https://www.kln.gov.my/web/nga_abuja/home"
+      }
+    ]
+  },
+  {
+    "country": "Oman",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Muscat",
+        "address": [
+          "Villa No. 2443, Way 3030",
+          "Shatti Al Qurum",
+          "P.O. Box 51, Bareeq Alshati",
+          "Muscat"
+        ],
+        "phone": [
+          "(968) 2469 8329",
+          "(968) 2469 8643 (General Enquiries)",
+          "(968) 7159 2388 (Duty Officer for Emergency for Malaysians only)"
+        ],
+        "fax": "(968) 2460 5031",
+        "email": "mwmuscat@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/omn_muscat/home"
+      }
+    ]
+  },
+  {
+    "country": "Pakistan",
+    "missions": [
+      {
+        "name": "High Commission of Malaysia, Islamabad",
+        "address": [
+          "Plot No. 144-150, Street No. 17,",
+          "Sector G-5",
+          "Diplomatic Enclave",
+          "Islamabad"
+        ],
+        "phone": [
+          "+92 51 283 3201 (Visa Enquiry)",
+          "+92 51 207 2900 ext. 123 or 125 (Consular)"
+        ],
+        "fax": "+92 51 283 3210",
+        "email": "mwislamabad@kln.gov.my (General) / islamabad@imi.gov.my (Visa & Immigration)",
+        "website": "https://www.kln.gov.my/web/pak_islamabad/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Karachi",
+        "address": [
+          "CONSULATE GENERAL OF MALAYSIA",
+          "7A Main Khayaban-e-Shamsheer",
+          "DHA 5, 75500, Karachi",
+          "Karachi",
+          "PAKISTAN"
+        ],
+        "phone": [
+          "+922135295618 (GENERAL)",
+          "+922135295619",
+          "+923008505055 (DUTY OFFICER)"
+        ],
+        "fax": "+922135295614",
+        "email": "mwkarachi@kln.gov.my (Attestation) / karachi@imi.gov.my (Visa)",
+        "website": "https://www.kln.gov.my/web/pak_karachi/home"
+      }
+    ]
+  },
+  {
+    "country": "Papua New Guinea",
+    "missions": [
+      {
+        "name": "High Commission of Malaysia, Port Moresby",
+        "address": [
+          "Lot 16, Section 531, Rosewood Executive Residence",
+          "Savannah Heights",
+          "PO Box 1400",
+          "Port Moresby NCD"
+        ],
+        "phone": [
+          "+675-3251506",
+          "+675-3252076"
+        ],
+        "fax": "-",
+        "email": "mwportmoresby@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/png_port-moresby/home"
+      }
+    ]
+  },
+  {
+    "country": "Peru",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Lima",
+        "address": [
+          "Av. General Juan Antonio Pezet 1750",
+          "San Isidro",
+          "Lima, Republic of Peru."
+        ],
+        "phone": [
+          "(511) 422 0297",
+          "(511) 441 1939",
+          "(511) 441 0795"
+        ],
+        "fax": "(511) 650 3114",
+        "email": "mwlima@kln.gov.my / malawakillima@gmail.com (consular matters)",
+        "website": "https://www.kln.gov.my/web/per_lima/home"
+      }
+    ]
+  },
+  {
+    "country": "Philippines",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Manila",
+        "address": [
+          "107 Tordesillas Street",
+          "Salcedo Village,",
+          "Makati, Metro Manila, Phillipines",
+          "Manila"
+        ],
+        "phone": [
+          "(632) 86628200",
+          "(63) 961 0778113 (Duty Officer - after office hour, weekend & Public holiday)"
+        ],
+        "fax": "(632) 86628201 / 02",
+        "email": "MalaysianEmbassyPh@gmail.com (Consular)",
+        "website": "https://www.kln.gov.my/web/phl_manila/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Davao City",
+        "address": [
+          "Suite 043 - 044, 4th Floor",
+          "Pryce Tower Corporation Building, Pryce Business Park,",
+          "J.P. Laurel Avenue,",
+          "Davao City"
+        ],
+        "phone": [
+          "+63 82 221 4050",
+          "+63 82 222 1368"
+        ],
+        "fax": "-",
+        "email": "mwdavao@kln.gov.my / dav.consular@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/phl_davao-city/home"
+      }
+    ]
+  },
+  {
+    "country": "Poland",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Warsaw",
+        "address": [
+          "9th Floor, Warsaw Towers",
+          "ul. Sienna 39, 00-121 Warsaw"
+        ],
+        "phone": [
+          "(+4822) 617 4413"
+        ],
+        "fax": "(+4822) 617 6256",
+        "email": "mwwarsaw@kln.gov.my (for English) / waw.receptionist@kln.gov.my (for Polish) / mwwarsaw2021@gmail.com (for Consular)",
+        "website": "https://www.kln.gov.my/web/pol_warsaw/home"
+      }
+    ]
+  },
+  {
+    "country": "Qatar",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Doha",
+        "address": [
+          "BUILDING NO. 6, DAWHAT ZEKREET STREET NO. 821",
+          "ONAIZA ZONE 66, PO BOX 23760",
+          "DOHA, QATAR (For Consular matters with appointment : Gate B)"
+        ],
+        "phone": [
+          "+974 44836463",
+          "+974 44836493 (For emergencies and after office hours)"
+        ],
+        "fax": "+974 4483 6453",
+        "email": "mwdoha@kln.gov.my (Official) / doh.info@kln.gov.my (Consular appointment and inquiry on visa matters)",
+        "website": "https://www.kln.gov.my/web/qat_doha/home"
+      }
+    ]
+  },
+  {
+    "country": "Republic of Korea",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Seoul",
+        "address": [
+          "129, Dokseodang-ro",
+          "Hannam-dong, Yongsan-gu",
+          "Seoul",
+          "Republic of Korea"
+        ],
+        "phone": [
+          "+82-2-2077 8600 (General Line)",
+          "Emergency : +8210 8974 8699"
+        ],
+        "fax": "+82-2-794 5488/ 5480",
+        "email": "mwseoul@kln.gov.my / seo.cons@kln.gov.my (Consular Matters)",
+        "website": "https://www.kln.gov.my/web/kor_seoul/home"
+      }
+    ]
+  },
+  {
+    "country": "Romania",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Bucharest",
+        "address": [
+          "No.11, Drobeta Street",
+          "Sector 2",
+          "Bucharest"
+        ],
+        "phone": [
+          "+40 21-211 3801",
+          "+40 21-211 3802",
+          "+40 778 750 273 (Duty Officer)"
+        ],
+        "fax": "+40 21-210 0270",
+        "email": "mwbucharest@kln.gov.my / embmalaysia.consular@gmail.com (Consular Services)",
+        "website": "https://www.kln.gov.my/web/rou_bucharest/home"
+      }
+    ]
+  },
+  {
+    "country": "Russian Federation",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Moscow",
+        "address": [
+          "Mosfilmovskaya Ulitsa 50,",
+          "115127",
+          "Moscow"
+        ],
+        "phone": [
+          "+7 495 419 9898 / 99",
+          "+7 906 746 1333 (Emergency / Outside Working Hours Only)"
+        ],
+        "fax": "+7 495 419 9897",
+        "email": "mwmoscow@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/rus_moscow/home"
+      }
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Riyadh",
+        "address": [
+          "Diplomatic Quarter",
+          "P.O. Box 94335",
+          "11693",
+          "Riyadh"
+        ],
+        "phone": [
+          "00 966 11 488 7098",
+          "00 966 11 488 7100",
+          "Emergency (after office hours) Please contact the relevant officer."
+        ],
+        "fax": "00 966 11 482 4177",
+        "email": "mwriyadh@kln.gov.my / riyadh.embassymy@gmail.com (consular inquiry)",
+        "website": "https://www.kln.gov.my/web/sau_riyadh/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Jeddah",
+        "address": [
+          "Lot 241, Al-Mualiffin Street",
+          "Al Rehab District",
+          "P.O Box 593",
+          "21421, Jeddah"
+        ],
+        "phone": [
+          "0096612 6727740",
+          "0096612 6728019"
+        ],
+        "fax": "0096612 6760877",
+        "email": "mwjeddah@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/sau_jeddah/home"
+      }
+    ]
+  },
+  {
+    "country": "Senegal",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Dakar",
+        "address": [
+          "Villa No. 2, Avenue des Ambassades,",
+          "Fann Residence, Dakar, Senegal"
+        ],
+        "phone": [
+          "+221 - 33 825 8935",
+          "Duty Officer: +221 -772566075"
+        ],
+        "fax": "+221 - 33 825 4719",
+        "email": "mwdakar@kln.gov.my / mwdakar@orange.sn",
+        "website": "https://www.kln.gov.my/web/sen_dakar/home"
+      }
+    ]
+  },
+  {
+    "country": "Serbia",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Belgrade",
+        "address": [
+          "Tolstojeva 48",
+          "Belgrade"
+        ],
+        "phone": [
+          "{'number': '+381 11 266 2736', 'type': 'General enquiries'}",
+          "{'number': '+381 11 266 2746', 'type': 'General enquiries'}",
+          "{'number': '+381 63 8999 338', 'type': 'For emergencies'}"
+        ],
+        "fax": "+381 11 36 79 080",
+        "email": "{'address': 'mwbelgrade@kln.gov.my', 'type': None}",
+        "website": "https://www.kln.gov.my/web/srb_belgrade/home"
+      }
+    ]
+  },
+  {
+    "country": "Singapore",
+    "missions": [
+      {
+        "name": "High Commission of Malaysia, Singapore",
+        "address": [
+          "301, Jervois Road",
+          "Singapore 249077"
+        ],
+        "phone": [
+          "{'number': '65-6887 6256', 'type': 'Passport Matters/Visa/Entry Exit to Malaysia/Immigration Matters'}",
+          "{'number': '65-6887 6243', 'type': 'Passport Matters/Visa/Entry Exit to Malaysia/Immigration Matters'}",
+          "{'number': '65-6887 6231', 'type': 'Consular Matters'}",
+          "{'number': '65-6887 6230', 'type': 'Consular Matters'}",
+          "{'number': '65-6235 0111', 'type': 'General Inquiries'}"
+        ],
+        "fax": "65-6733 6135",
+        "email": "{'address': 'singapore@imi.gov.my', 'type': 'Passport & Visa/Immigration Matters'} / {'address': 'singapore.imi@mhc.org.sg', 'type': 'Passport & Visa/Immigration Matters'} / {'address': 'consular@mhc.org.sg', 'type': 'Birth&Death Registration/Renunciation/Marriage/Notarial'} / {'address': 'mwsingapore@kln.gov.my', 'type': 'General Inquiries'}",
+        "website": "https://www.kln.gov.my/web/sgp_singapore/home"
+      }
+    ]
+  },
+  {
+    "country": "South Africa",
+    "missions": [
+      {
+        "name": "High Commission of Malaysia, Pretoria",
+        "address": [
+          "No.1007, Francis Baard Street (formerly known as Schoeman Street), Arcadia",
+          "Pretoria 0083",
+          "P.O. Box 11673"
+        ],
+        "phone": [
+          "{'number': '+27 (0) 12 763 0900', 'type': None}",
+          "{'number': '+27 (0) 12 763 0901', 'type': None}",
+          "{'number': '+27 (0) 12 763 0902', 'type': None}"
+        ],
+        "fax": "+27 (12) 430 7773",
+        "email": "{'address': 'mwpretoria@kln.gov.my', 'type': None}",
+        "website": "https://www.kln.gov.my/web/zaf_pretoria/home"
+      }
+    ]
+  },
+  {
+    "country": "Spain",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Madrid",
+        "address": [
+          "Avenida de los Madroños, 63 bis",
+          "Madrid"
+        ],
+        "phone": [
+          "{'number': '(34) 91 555 0684', 'type': 'General enquiries'}",
+          "{'number': '(34) 91 555 0737', 'type': 'General enquiries'}",
+          "{'number': '(34) 659 89 49 43', 'type': 'For emergencies'}"
+        ],
+        "fax": "(34) 91 770 8614",
+        "email": "{'address': 'mwmadrid@kln.gov.my', 'type': None}",
+        "website": "https://www.kln.gov.my/web/esp_madrid/home"
+      }
+    ]
+  },
+  {
+    "country": "Sri Lanka",
+    "missions": [
+      {
+        "name": "High Commission of Malaysia, Colombo",
+        "address": [
+          "26A/5 Alwis Place",
+          "Colombo 03",
+          "Colombo"
+        ],
+        "phone": [
+          "{'number': '+94 11 755 7711', 'type': None}",
+          "{'number': '+94 11 755 7712', 'type': None}",
+          "{'number': '+94 11 755 7713', 'type': None}"
+        ],
+        "fax": "+94 11 755 7714",
+        "email": "{'address': 'mwcolombo@kln.gov.my', 'type': 'general'} / {'address': 'info.hcmsl@gmail.com', 'type': 'visa and consular'}",
+        "website": "https://www.kln.gov.my/web/lka_colombo/home"
+      }
+    ]
+  },
+  {
+    "country": "Sudan",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Khartoum",
+        "address": [
+          "PETRONAS Sudan Complex, No. 13, Block 7, Nile Avenue",
+          "Khartoum"
+        ],
+        "phone": [
+          "{'number': '+249 15 655 6400', 'type': 'General'}",
+          "{'number': '+249 92 279 9101', 'type': 'Duty Officer'}"
+        ],
+        "fax": "-",
+        "email": "{'address': 'mwkhartoum@kln.gov.my', 'type': 'General matters'} / {'address': 'krt.consular@kln.gov.my', 'type': 'Consular matters'}",
+        "website": "https://www.kln.gov.my/web/sdn_khartoum/home"
+      }
+    ]
+  },
+  {
+    "country": "Sweden",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Stockholm",
+        "address": [
+          "Karlavägen 37",
+          "114 31 Stockholm",
+          "P.O.Box 26053, 100 41 Stockholm"
+        ],
+        "phone": [
+          "{'number': '+46 8440 8400', 'type': 'General enquiries'}",
+          "{'number': '+46 73 536 9152', 'type': 'Emergency after working hours and weekend'}"
+        ],
+        "fax": "+46 8791 8760",
+        "email": "{'address': 'mwstockholm@kln.gov.my', 'type': None}",
+        "website": "https://www.kln.gov.my/web/swe_stockholm/home"
+      }
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Berne",
+        "address": [
+          "Jungfraustrasse 1",
+          "Berne",
+          "CH-3005"
+        ],
+        "phone": [
+          "{'number': '+41 (0) 31 350 4700', 'type': 'General Enquiries'}",
+          "{'number': '+41 (0) 78 222 4486', 'type': 'For Emergencies'}"
+        ],
+        "fax": "+41-31 350 4702",
+        "email": "{'address': 'mwberne@kln.gov.my', 'type': None}",
+        "website": "https://www.kln.gov.my/web/che_berne/home"
+      },
+      {
+        "name": "Permanent Mission of Malaysia to the United Nations (UN), Geneva",
+        "address": [
+          "International Center Cointrin, 20, Route de Pre-Bois, Block A, 2nd Floor",
+          "1215 Geneva 15"
+        ],
+        "phone": [
+          "{'number': '+41(0) 22 710 7500', 'type': None}",
+          "{'number': '+41(0) 79 774 8299', 'type': 'after office hours'}"
+        ],
+        "fax": "{'number': '+41(0) 22 710 7501', 'type': 'Main'} / {'number': '+41 (0) 22 710 7511', 'type': 'Labour'}",
+        "email": "{'address': 'mwgeneva@kln.gov.my', 'type': None}",
+        "website": "https://www.kln.gov.my/web/che_geneva/home"
+      }
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "missions": [
+      {
+        "name": "Malaysian Friendship and Trade Centre, Taipei",
+        "address": [
+          "8th Floor, San Ho Plastic Bldg",
+          "No.102, Dunhua N. Rd.",
+          "Songshan District",
+          "Taipei City"
+        ],
+        "phone": [
+          "+886-2-2713 2626"
+        ],
+        "fax": "+886-2-2514 9864",
+        "email": "mwtaipei@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/twn_taipei/home"
+      }
+    ]
+  },
+  {
+    "country": "Thailand",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Bangkok",
+        "address": [
+          "33-35 South Sathorn Road, Tungmahamek",
+          "Sathorn, 10120 Bangkok"
+        ],
+        "phone": [],
+        "fax": "+66-2340-5721",
+        "email": "mwbangkok@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/tha_bangkok/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Songkhla",
+        "address": [
+          "NO. 4, Sukhum Road",
+          "Muang District",
+          "Songkhla Province",
+          "Songkhla"
+        ],
+        "phone": [],
+        "fax": "+(6674)324004 / +(6674)312353",
+        "email": "mwsongkhla@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/tha_songkhla/home"
+      }
+    ]
+  },
+  {
+    "country": "Timor-Leste",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Dili",
+        "address": [
+          "Embassy of Malaysia",
+          "Left Wing, Level 3, Block D, Palm Business and Trade Centre",
+          "Rua de Fatumeta, Suco Bairro Pite",
+          "Dili, TIMOR - LESTE"
+        ],
+        "phone": [],
+        "fax": "+670 - 332 1805",
+        "email": "mwdili@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/tls_dili/home"
+      }
+    ]
+  },
+  {
+    "country": "Turkey",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Ankara",
+        "address": [
+          "Koza Sokak",
+          "No. 56, Gaziosmanpasa",
+          "Cankaya",
+          "Ankara"
+        ],
+        "phone": [],
+        "fax": "+(90)312-4464130",
+        "email": "mwankara@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/tur_ankara/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Istanbul",
+        "address": [
+          "Esentepe Mah. Ali Kaya Sok.",
+          "No: 1/1B, Polat Plaza,",
+          "B Blok, Kat 8, Levent/Sisli",
+          "Istanbul"
+        ],
+        "phone": [],
+        "fax": "N/A",
+        "email": "mwistanbul@kln.gov.my / ist.cons@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/tur_istanbul/home"
+      }
+    ]
+  },
+  {
+    "country": "Turkmenistan",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Ashgabat",
+        "address": [
+          "F5 & F6, 6th. Floor,",
+          "Berkarar Business Centre",
+          "Ataturk (1972) Street 82,",
+          "Ashgabat"
+        ],
+        "phone": [
+          "+993 12 468994"
+        ],
+        "fax": "+993 12 46 9229",
+        "email": "mwashgabat@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/tkm_ashgabat/home"
+      }
+    ]
+  },
+  {
+    "country": "Ukraine",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Kiev",
+        "address": [
+          "18, Arsenalna Street, Kyiv, Ukraine"
+        ],
+        "phone": [
+          "+380 44 2855271"
+        ],
+        "fax": "+380 44 2855238",
+        "email": "mwkiev[at]kln[dot]gov[dot]my",
+        "website": "https://www.kln.gov.my/web/ukr_kiev/home"
+      }
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Abu Dhabi",
+        "address": [
+          "Unit 19B, Level 19, Tamouh Tower, 12 Marina Square, Reem Island, P.O. Box 3887, Abu Dhabi"
+        ],
+        "phone": [
+          "+ 971 - 54 - 2576 532 (After Office Hour)",
+          "+ 971 - 2 - 4482 776",
+          "+ 971 - 2 - 4482 775"
+        ],
+        "fax": "+ 971 - 2 - 4482 779",
+        "email": "mwabudhabi@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/are_abu-dhabi/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Dubai",
+        "address": [
+          "Villa 83, Street 10D, Mankhool, Bur Dubai, P.O.Box 4598, Dubai"
+        ],
+        "phone": [
+          "+ 971 - 4 - 3985 843 (General enquiries)",
+          "+971 - 4 - 3985 847 (General enquiries)",
+          "+971 50 737 9196 (Emergency Only)"
+        ],
+        "fax": "+ 971 - 4 - 3985 809",
+        "email": "dxb.cons@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/are_dubai/home"
+      }
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "missions": [
+      {
+        "name": "High Commission of Malaysia, London",
+        "address": [
+          "45-46 Belgrave Square, London SW1X 8QT, United Kingdom"
+        ],
+        "phone": [
+          "General: +44 (0)20 3931 6196 / +44 (0)20 7235 8033",
+          "Out of office hour: +44 (0)20 7235 8033",
+          "Consular: +44(0)20 3931 6195",
+          "Immigration: +44(0)20 3931 6190"
+        ],
+        "fax": "-",
+        "email": "mwlondon@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/gbr_london/home"
+      }
+    ]
+  },
+  {
+    "country": "United States",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Washington",
+        "address": [
+          "Embassy of Malaysia, 3516 International Court N.W., Washington, D.C., 20008, U.S.A"
+        ],
+        "phone": [
+          "+1 (202) 572 9700",
+          "+1 (202) 375 4396 (FOR EMERGENCIES ONLY)"
+        ],
+        "fax": "+1 (202) 572 9882",
+        "email": "mwwashington@kln.gov.my / consularwdc@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/usa_washington/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Los Angeles",
+        "address": [
+          "777 South Figueroa Street, Suite 600, Los Angeles, California 90017"
+        ],
+        "phone": [
+          "+1-213-892-1238 (General enquiries)"
+        ],
+        "fax": "+1-213-892-9031",
+        "email": "mwlosangeles@kln.gov.my (Official Correspondence) / lax.info@kln.gov.my (Consular Matters)",
+        "website": "https://www.kln.gov.my/web/usa_los-angeles/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, New York",
+        "address": [
+          "Consulate General of Malaysia, 313 East 43rd Street, New York, NY 10017"
+        ],
+        "phone": [
+          "+1 (212) 490 2722 or 2723 (Consular)",
+          "+1 (929) 428 0794 (Passport & Visa)"
+        ],
+        "fax": "+1 (212) 490 2049 (Consular) / +1 (212) 490 1439 (Passport & Visa)",
+        "email": "mwnewyorkcg@kln.gov.my (Official Correspondence) / nycg.cons@kln.gov.my (Consular Matters) / newyork@imi.gov.my (Passport & Visa)",
+        "website": "https://www.kln.gov.my/web/usa_new-york/home"
+      },
+      {
+        "name": "Permanent Mission of Malaysia to the United Nations (UN), UN New York",
+        "address": [
+          "313 East 43rd Street New York NY 10017"
+        ],
+        "phone": [
+          "+1 (212) 986 6310"
+        ],
+        "fax": "+ 1 (212) 490 8576",
+        "email": "mwnewyorkun@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/usa_un-new-york/home"
+      }
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Tashkent",
+        "address": [
+          "56-58, Tafakkur Street, Yakkasaray District, Tashkent"
+        ],
+        "phone": [
+          "998-71-254 0961",
+          "998-71-256 3027",
+          "998-90-825 8986 (After Hours Emergency)"
+        ],
+        "fax": "998-71-252 3071",
+        "email": "mwtashkent@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/uzb_tashkent/home"
+      }
+    ]
+  },
+  {
+    "country": "Venezuela",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Caracas",
+        "address": [
+          "Centro Profesional Eurobuilding,",
+          "Piso 6, Oficinas E-F-G",
+          "Calle La Guairita, Chuao",
+          "Caracas"
+        ],
+        "phone": [
+          "(58-212) 720 4257"
+        ],
+        "fax": "-",
+        "email": "mwcaracas@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/ven_caracas/home"
+      }
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Hanoi",
+        "address": [
+          "43 - 45 Dien Bien Phu Street",
+          "Ba Dinh District",
+          "Hanoi, Socialist Republic of Vietnam"
+        ],
+        "phone": [
+          "+84 24-3734 3849 / 3734 3820",
+          "+8424-3734 3836 / 3734 3822 (General enquiries)",
+          "Duty Officer : +849-0418 5610 (for emergencies after office hours)"
+        ],
+        "fax": "+8424-3734 3832",
+        "email": "mwhanoi@kln.gov.my / han.cons@kln.gov.my (for Consular related matters only)",
+        "website": "https://www.kln.gov.my/web/vnm_hanoi/home"
+      },
+      {
+        "name": "Consulate General of Malaysia, Ho Chi Minh City",
+        "address": [
+          "109 Nguyen Van Huong",
+          "Thao Dien Ward",
+          "District 2",
+          "Ho Chi Minh City"
+        ],
+        "phone": [
+          "+84 (0)28-3829 9023 (General enquiries)",
+          "+84 (0)76 564 9660 (For emergencies)"
+        ],
+        "fax": "8428-3829 9027",
+        "email": "mwhochiminh[at]kln[dot]gov[dot]my",
+        "website": "https://www.kln.gov.my/web/vnm_ho-chi-minh-city/home"
+      }
+    ]
+  },
+  {
+    "country": "Zimbabwe",
+    "missions": [
+      {
+        "name": "Embassy of Malaysia, Harare",
+        "address": [
+          "40 Downie Avenue",
+          "Avondale, Harare",
+          "Republic of Zimbabwe",
+          "Harare"
+        ],
+        "phone": [
+          "+ 263 242 33 44 13/14 (General enquiries)",
+          "+263 77 500 1441 (For emergencies)"
+        ],
+        "fax": "+ 263 242 33 44 15",
+        "email": "mwharare@kln.gov.my",
+        "website": "https://www.kln.gov.my/web/zwe_harare/home"
+      }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+* text=auto
+
+*.py text eol=lf
+*.{css,html,json,md,mjs,ts,tsx,txt,yaml,yml} text eol=lf
+*.ps1 text eol=crlf
+
+*.{pdf,png,jpg,jpeg,gif,ico,woff,woff2} binary
+

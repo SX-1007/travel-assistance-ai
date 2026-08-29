@@ -1,0 +1,149 @@
+Archived Original Issues (captured 5 July 2026)
+1. when submitting the new trip form, the AI does not plan for the itineraries due to the json is empty (only date and day is performed well, i doubt that the AI didn't use API to search for any results, but although there is no information, the number of api use is lesser, so I'm not sure what happening)
+Proof:
+{
+  "draft_itinerary": [
+    {
+      "day": 1,
+      "date": "2026-07-19",
+      "flight": null,
+      "hotel": null,
+      "activities": [],
+      "route": null,
+      "day_total_cost": 0
+    },
+    {
+      "day": 2,
+      "date": "2026-07-20",
+      "flight": null,
+      "hotel": null,
+      "activities": [],
+      "route": null,
+      "day_total_cost": 0
+    },
+    {
+      "day": 3,
+      "date": "2026-07-21",
+      "flight": null,
+      "hotel": null,
+      "activities": [],
+      "route": null,
+      "day_total_cost": 0
+    },
+    {
+      "day": 4,
+      "date": "2026-07-22",
+      "flight": null,
+      "hotel": null,
+      "activities": [],
+      "route": null,
+      "day_total_cost": 0
+    },
+    {
+      "day": 5,
+      "date": "2026-07-23",
+      "flight": null,
+      "hotel": null,
+      "activities": [],
+      "route": null,
+      "day_total_cost": 0
+    },
+    {
+      "day": 6,
+      "date": "2026-07-24",
+      "flight": null,
+      "hotel": null,
+      "activities": [],
+      "route": null,
+      "day_total_cost": 0
+    },
+    {
+      "day": 7,
+      "date": "2026-07-25",
+      "flight": null,
+      "hotel": null,
+      "activities": [],
+      "route": null,
+      "day_total_cost": 0
+    },
+    {
+      "day": 8,
+      "date": "2026-07-26",
+      "flight": null,
+      "hotel": null,
+      "activities": [],
+      "route": null,
+      "day_total_cost": 0
+    }
+  ],
+  "daily_map_info": {
+    "1": {
+      "type": "FeatureCollection",
+      "features": []
+    },
+    "2": {
+      "type": "FeatureCollection",
+      "features": []
+    },
+    "3": {
+      "type": "FeatureCollection",
+      "features": []
+    },
+    "4": {
+      "type": "FeatureCollection",
+      "features": []
+    },
+    "5": {
+      "type": "FeatureCollection",
+      "features": []
+    },
+    "6": {
+      "type": "FeatureCollection",
+      "features": []
+    },
+    "7": {
+      "type": "FeatureCollection",
+      "features": []
+    },
+    "8": {
+      "type": "FeatureCollection",
+      "features": []
+    }
+  }
+}
+
+2. the AI didn't have any information about the itineraries (i perform this after submitting the initialform)
+Proof:
+Your current itinerary is empty, as we are still in the initial planning phase.
+
+To help me craft the perfect trip to Taipei for you, could you please share a bit more about your interests? For example:
+
+Are you interested in food tours, historical sites, nature/hiking, or shopping?
+What is your preferred travel pace? (e.g., packed with activities or more relaxed?)
+Once I have a better sense of what you enjoy, I can suggest specific activities and start building your day-by-day itinerary.
+
+Additionally, as my initial search for flights and hotels within your current budget of 7,000 TWD did not return results, we may need to discuss adjusting your budget or travel dates to make this trip feasible. Would you like to increase your total budget or explore other options?
+
+3.the initialform is incorrect, the budget input box suppose to be budget in user's origin currency but not destination currency (the 7000TWD)
+Proof:
+Your current itinerary is empty, as we are still in the initial planning phase.
+
+To help me craft the perfect trip to Taipei for you, could you please share a bit more about your interests? For example:
+
+Are you interested in food tours, historical sites, nature/hiking, or shopping?
+What is your preferred travel pace? (e.g., packed with activities or more relaxed?)
+Once I have a better sense of what you enjoy, I can suggest specific activities and start building your day-by-day itinerary.
+
+Additionally, as my initial search for flights and hotels within your current budget of 7,000 TWD did not return results, we may need to discuss adjusting your budget or travel dates to make this trip feasible. Would you like to increase your total budget or explore other options?
+
+4. the initialform should not force user to input state that they want to travel
+
+5.the AI keep displaying error
+Proof:
+I apologise, but I encountered a temporary issue while processing your request. Could you please try again?
+
+6. the information provided by the AI is inaccurate, i doubt that the AI didn't use the FreeCurrencyAPI to search for answer
+Proof:
+For your trip from Malaysia to Taiwan, the exchange rate is 1 MYR = 1.0 TWD.
+
+7.

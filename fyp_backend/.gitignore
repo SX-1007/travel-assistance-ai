@@ -1,0 +1,40 @@
+# Temporary standalone-repository rules.
+# The parent ../.gitignore is authoritative for the intended monorepo.
+
+# Credentials
+.env
+.env.*
+!.env.example
+FIREBASE_CREDENTIAL_JSON.json
+firebase-adminsdk-*.json
+service-account*.json
+*.pem
+*.key
+*.cert
+*.p12
+*.pfx
+
+# Python environments and generated output
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Local tooling and runtime output
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+*.log
